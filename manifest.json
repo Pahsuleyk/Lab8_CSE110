@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8_CSE110",
+    "short_name": "Branden Sioson",
+    "description": "Lab 8 PWA Demo",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#e6e6fa",
+    "theme_color": "#ffffff",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
